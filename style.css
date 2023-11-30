@@ -1,0 +1,129 @@
+.left{
+    border: 0px solid black;
+    height: 600px;
+    width: 400px;
+    background-image: url(home-phones.png);
+    padding: 30px 0px 0px 157px;
+    background-repeat: no-repeat;
+    margin: 30px 0px 0px 320px;
+   
+}
+
+.right{
+    border: 2px solid #D8D9DA;
+    height: 410px;
+    width: 350px;
+    margin: 35px 0px 0px -100px;
+    
+}
+.tittle{
+    padding: 50px 0px 0px 90px;
+   
+}
+.noaccount{
+    border: 2px solid #D8D9DA;
+    width:350px;
+    height: 40px;
+    margin: 435px 0px 0px -353.5px;
+    text-align: center;
+    padding: 27px 0px 0px 0px;
+}
+.name{
+    margin:20px 0px 0px 40px;
+   width:259px;
+   padding: 10px 0px 7px 10px;
+   background-color: #F5F5F5;
+   border-radius: 2%;
+   border: 1px solid #D8D9DA;
+}
+.password1{
+    margin:5px 0px 0px 40px;
+    padding: 10px 97px 7px 10px;
+    background-color: #F5F5F5;
+    
+    border-radius: 2%;
+    border: 1px solid #D8D9DA;
+}
+.button{
+    padding: 7px 0px 7px 0px;
+    width: 270px;
+    text-align: center;
+    border-radius:7px;
+    margin:10px 0px 0px 40px;
+    border: 0px solid;
+    background-color: #068FFF;
+    color: white;
+}
+.leftslash{
+    border: 1px solid #D8D9DA;
+    height: 0px;
+    width: 110px;
+    margin: 30px 0px 0px 40px;
+}
+.or{
+    margin: -7px 0px 0px 165.7px;
+    font-size: 13.5px;
+}
+.rightslash{
+    border: 1px solid #D8D9DA;
+    height: 0px;
+    width: 110px;
+    margin: -9px 0px 0px 200px;
+}
+.facebook{
+    margin: 20px 0px 0px 90px;
+    font-weight:600;
+}
+.facebooklogo{
+    border: 0;
+    display: inline-block;
+    font: inherit;
+    font-size: 100%;
+    margin: 0;
+    margin-right: 8px;
+    padding: 0;
+    position: relative;
+    top: 3px;
+    vertical-align: baseline;
+    background-image: url(TJztmXpWTmS.png);
+    background-repeat: no-repeat;
+    background-position: -414px -259px;
+    height: 16px;
+    width: 16px;
+}
+.forgot{
+    margin: 20px 0px 0px 120px;
+
+}
+.rightbottom{
+    margin: 20px 0px 0px 0px;
+    height: 100px;
+}
+.get{
+    border: 0px solid black;
+    margin: 20px 0px 0px -220px;
+}
+.getlogo{
+    margin: 15px 0px 0px -310px;
+}
+.navbar{
+    border: 0px solid black;
+    margin: 50px 0px 0px -900px;
+   color: gray;
+   flex-direction: row;
+   padding: 10px;
+   flex-wrap: wrap;
+   text-align: center;
+   justify-content: center;
+   font-size: small;
+}
+.meta{
+    border: 0px solid black;
+    margin: 20px 0px 0px -550px;
+    font-size: small;
+    color: gray;
+}
+.gap{
+    border: 0px solid black;
+    height: 100px;
+}
